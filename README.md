@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <h3>Skills</h3>
   
-![My Skills](https://skillicons.dev/icons?i=github,git,flutter,c,py,dart)
+![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,c,py,html,css,js,androidstudio)
 
 <h3>Tools Used</h3>
 
