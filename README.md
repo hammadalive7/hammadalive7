@@ -24,7 +24,13 @@ Here are some ideas to get you started:
 
 <p align="center">I'm a passionate Computer Science Student, specializing in mobile App Development and Machine Learning. With a solid three years of experience in Mobile App Development, I have honed my skills in creating engaging and user-friendly applications.</p>
 
+📫 Reach me: **hammadali1810@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/roshaen_rc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roshaen_rc" height="30" width="40" /></a>
+<a href="https://instagram.com/hammad_alive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__youhaveme___" height="30" width="40" /></a>
+</p>
 <h3>:fire: My GitHub Stats :</h3>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hammadalive7&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)<div class="open_grepper_editor" title="Edit & Save To Grepper">
