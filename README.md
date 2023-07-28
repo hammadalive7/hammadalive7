@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hammadalive/"  target="blank"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Hammad LinkedIn" width="40" height="30"/></a>
-<a href="https://instagram.com/hammad_alive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__youhaveme___" height="30" width="40" /></a>
-<a href="https://twitter.com/hammadalive786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roshaen_rc" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hammadalive/"  target="_blank"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Hammad LinkedIn" width="40" height="30"/></a>
+<a href="https://instagram.com/hammad_alive" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__youhaveme___" height="30" width="40" /></a>
+<a href="https://twitter.com/hammadalive786" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roshaen_rc" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100045310204234&mibextid=ZbWKwL" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="__youhaveme___" height="30" width="40" /></a>
 
 </p>
