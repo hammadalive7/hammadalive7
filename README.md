@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">I'm a passionate Computer Science Student, specializing in mobile App Development and Machine Learning. With a solid three years of experience in Mobile App Development, I have honed my skills in creating engaging and user-friendly applications.</p>
+<p align="center">I'm a passionate Computer Science Student, specializing in mobile App Development and Machine Learning. With a solid two years of experience in Mobile App Development, I have honed my skills in creating engaging and user-friendly applications.</p>
 <h3>
   My Portfolio: 
     <a href="https://hammadalive.me/" target="_blank">
