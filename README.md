@@ -63,6 +63,5 @@ Here are some ideas to get you started:
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/android_studio.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>
   </p>
-
- 
-
+<!-- profile views -->
+<img src="https://komarev.com/ghpvc/?username=hammadalive7&style=flat-square&color=red" alt=""/>
