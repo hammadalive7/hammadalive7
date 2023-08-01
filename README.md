@@ -48,10 +48,10 @@ Here are some ideas to get you started:
 <h3>:fire: My GitHub Stats :</h3>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hammadalive7&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)<div class="open_grepper_editor" title="Edit & Save To Grepper">
-![Kattni's GitHub stats](https://github-readme-stats.vercel.app/api?username=hammadalive7&theme=tokyonight&show_icons=true)<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hammadalive7&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Hammad's github stats](https://github-readme-stats.vercel.app/api?username=hammadalive7&theme=cobalt)
 <br><br>
-![trophy](https://github-profile-trophy.vercel.app/?username=hammadalive7&theme=onedark)<div class="open_grepper_editor" title="Edit & Save To Grepper"></div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br><br>
+![trophy](https://github-profile-trophy.vercel.app/?username=hammadalive7&&theme=tokyonight&show_icons=true)<div class="open_grepper_editor" title="Edit & Save To Grepper"></div>
 
 <h3>Tools Used</h3>
 
