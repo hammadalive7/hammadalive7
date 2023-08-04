@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <h3>:fire: My GitHub Stats :</h3>
 <p align="center">
-  <a href="https://git.io/streak-stats">
+  <a href="https://github.com/hammadalive7/hammadalive7">
    <img src="https://github-readme-streak-stats.herokuapp.com?user=hammadalive7&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5" alt="Hammad's GitHub Streak" />
   </a>
 </p>
