@@ -41,21 +41,29 @@ Here are some ideas to get you started:
 <a href="https://www.facebook.com/profile.php?id=100045310204234&mibextid=ZbWKwL" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="__youhaveme___" height="30" width="40" /></a>
 
 </p>
-<h3>Skills</h3>
+<h3>Skills:</h3>
   
 ![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,c,py,html,css,js,androidstudio)
 
 <h3>:fire: My GitHub Stats :</h3>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=hammadalive7&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5" alt="Hammad's GitHub Streak" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hammadalive7&show_icons=true&theme=github_dark" alt="Hammad's GitHub stats"  />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadalive7&theme=github_dark&show_icons=true" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hammadalive7&&theme=tokyonight&show_icons=true" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hammadalive7&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)<div class="open_grepper_editor" title="Edit & Save To Grepper">
-![Hammad's github stats](https://github-readme-stats.vercel.app/api?username=hammadalive7&theme=cobalt)
-<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br><br>
-![trophy](https://github-profile-trophy.vercel.app/?username=hammadalive7&&theme=tokyonight&show_icons=true)<div class="open_grepper_editor" title="Edit & Save To Grepper"></div>
+<h3>Tools Used:</h3>
 
-<h3>Tools Used</h3>
-
-<p >
+<p>
 <a>
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>
