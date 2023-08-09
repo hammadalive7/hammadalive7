@@ -42,23 +42,23 @@ Here are some ideas to get you started:
 
 </p>
 <h3>Skills:</h3>
-  
-![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,c,py,html,css,js,androidstudio)
 
+![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,c,py,html,css,js,androidstudio)<br>
 <h3>:fire: My GitHub Stats :</h3>
+<!-- https://github-readme-streak-stats.herokuapp.com?user=hammadalive7&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5 -->
 <p align="center">
   <a href="https://github.com/hammadalive7/hammadalive7">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=hammadalive7&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5" alt="Hammad's GitHub Streak" />
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=hammadalive7&theme=neon" alt="Hammad's GitHub Streak" />
   </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hammadalive7&show_icons=true&theme=github_dark" alt="Hammad's GitHub stats"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=hammadalive7&show_icons=true&theme=neon" alt="Hammad's GitHub stats"  />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadalive7&theme=github_dark&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadalive7&theme=neon&show_icons=true" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hammadalive7&&theme=tokyonight&show_icons=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hammadalive7&&theme=radical&show_icons=true" />
 </p>
 
 <h3>Tools Used:</h3>
