@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 <p align="center">I'm a passionate Computer Science Student, specializing in mobile App Development and Machine Learning. With a solid two years of experience in Mobile App Development, I have honed my skills in creating engaging and user-friendly applications.</p>
 <h3>
-  My Portfolio: 
-    <a href="[https://hammadalive.me/](https://hammadalive.vercel.app/)" target="_blank">
+  My Portfolio Website: 
+    <a href="https://hammadalive.vercel.app/" target="_blank">
     hammadalive.me </a>
 </h3>
 
