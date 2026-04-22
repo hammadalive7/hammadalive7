@@ -1,75 +1,124 @@
-[![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)]([https://ashdude1401.github.io/My-Portfolio-of-failures/](https://github.com/hammadalive7/))
+<!-- Header Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hammad%20Ali&fontSize=90&fontAlignY=38&desc=Software%20Engineer%20%26%20Mobile%20App%20Developer&descAlignY=55&descAlign=62" width="100%" alt="Header Background"/>
+</div>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Hammad+Ali+%F0%9F%91%8B&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Hammad+Ali+%F0%9F%91%8B;30%2B+Shipped+Apps+📱;80%2B+Global+Clients+🌍;Flutter+%26+React+Native+Dev+💻;Machine+Learning+Enthusiast+🤖&center=true&size=30&width=800&height=80&color=FF3366&vCenter=true&pause=1000" alt="Typing SVG">
   </a>
 </h1>
-<h3 align="center">
-Computer Scientist💻 | App Developer📱 | ML Engineer🤖
-</h4> 
 
-<!--
-**hammadalive7/hammadalive7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hammadalive7&style=for-the-badge&color=FF3366" alt="Profile Views" />
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ..
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%">
+        <h2>💫 About Me</h2>
+        <p><b>I am a dedicated Software Engineer and Mobile Application Developer with over 3 years of professional experience. My expertise lies in architecting and developing robust, user-centric mobile solutions.</b></p>
+        <p><b>With a proven track record of delivering high-quality applications for a diverse global clientele, I consistently exceed expectations in performance, scalability, and design. I build with intention — each tool chosen for performance, scalability, and developer experience.</b></p>
+        <br/>
+        <p><b>🌍 Portfolio: <a href="https://hammadalive.vercel.app/" target="_blank">hammadalive.me</a></b></p>
+        <p><b>💼 Fiverr: <a href="https://www.fiverr.com/hammadalive2" target="_blank">Available for Work</a></b></p>
+        <p><b>📫 Email: <a href="mailto:hammadali1810@gmail.com">hammadali1810@gmail.com</a></b></p>
+      </td>
+      <td width="40%" align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">I'm a passionate Computer Science Student, specializing in mobile App Development and Machine Learning. With a solid two years of experience in Mobile App Development, I have honed my skills in creating engaging and user-friendly applications.</p>
-<h3>
-  My Portfolio Website: 
-    <a href="https://hammadalive.vercel.app/" target="_blank">
-    hammadalive.me </a>
-</h3>
+<br/>
 
-**Reach me 📫: hammadali1810@gmail.com**
+## 🚀 Featured Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/hammadalive/"  target="_blank"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Hammad LinkedIn" width="40" height="30"/></a>
-<a href="https://instagram.com/hammad_alive" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__youhaveme___" height="30" width="40" /></a>
-<a href="https://twitter.com/hammadalive786" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roshaen_rc" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100045310204234&mibextid=ZbWKwL" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="__youhaveme___" height="30" width="40" /></a>
+Here are a few selected projects that reflect my passion for building scalable, high-performance applications that solve real problems:
 
-</p>
-<h3>Skills:</h3>
+*   📱 **[KinectionAI](https://hammadalive.vercel.app/projects/kinection-ai)** - A personal growth app with an AI assistant offering tailored guidance for psychological education and emotional well-being.
+*   🌿 **[CureNatural](https://hammadalive.vercel.app/projects/cure-natural)** - An Ayurveda wellness app with personalized plans for nutrition, herbs, exercise, and mindfulness.
+*   🎨 **[ThemeCloud](https://hammadalive.vercel.app/projects/themecloud)** - Home-screen personalization for iPhone featuring themes, custom icons, widgets, and wallpapers.
+*   ⛩️ **[AnimeQuiz](https://hammadalive.vercel.app/projects/anime-quiz)** - A competitive trivia game for anime fans spanning shows, characters, and themes.
 
-![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,c,py,html,css,js,androidstudio)<br>
-<h3>:fire: My GitHub Stats :</h3>
-<!-- https://github-readme-streak-stats.herokuapp.com?user=hammadalive7&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5 -->
-<p align="center">
-  <a href="https://github.com/hammadalive7/hammadalive7">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=hammadalive7&theme=neon" alt="Hammad's GitHub Streak" />
+<br/>
+
+## 👨‍💻 What I Do Best
+
+*   **Mobile App Development:** Building high-performance, cross-platform apps using **Flutter** and **React Native** with clean architecture and smooth UX.
+*   **Web Applications:** Creating responsive web applications with **React** and modern tooling.
+*   **API Integration:** Seamlessly integrating REST APIs, Firebase, and third-party services.
+
+<br/>
+
+## 🛠️ Skills & Technologies
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,firebase,github,git,c,py,html,css,js,androidstudio,vscode&perline=7" alt="Skills" />
+</div>
+
+<br/>
+
+## 💬 What My Clients Say
+
+> *"Hamad is absolutely an exceptional developer. He has great insights. He understands what you want and even his first delivery is perfect, bug free... He is timely and very cooperative."*
+
+> *"Hammad Ali did an outstanding job with our app design! His professionalism, creativity, and visual appeal were top-notch... Great job, fast delivery."*
+
+<br/>
+
+## 🤝 Connect with me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/hammadalive/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hammadalive7&show_icons=true&theme=neon" alt="Hammad's GitHub stats"  />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadalive7&theme=neon&show_icons=true" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hammadalive7&&theme=radical&show_icons=true" />
-</p>
-
-<h3>Tools Used:</h3>
-
-<p>
-<a>
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  <a href="https://twitter.com/hammadalive786" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a>
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/android_studio.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  <a href="https://instagram.com/hammad_alive" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  </p>
-<!-- profile views -->
-<img src="https://komarev.com/ghpvc/?username=hammadalive7&style=flat-square&color=red" alt=""/>
+  <a href="https://www.facebook.com/profile.php?id=100045310204234&mibextid=ZbWKwL" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.fiverr.com/hammadalive2" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-00B22D?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+  </a>
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=hammadalive7&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Hammad's GitHub stats" width="100%" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammadalive7&theme=radical&hide_border=true&background=0D1117" alt="Hammad's Streak stats" width="100%" />
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadalive7&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="80%" />
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hammadalive7&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer"/>
+</div>
