@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hammad%20Ali&fontSize=90&fontAlignY=38&desc=Software%20Engineer%20%26%20Mobile%20App%20Developer&descAlignY=55&descAlign=62" width="100%" alt="Header Background"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Header Background"/>
 </div>
 
 <h1 align="center">
