@@ -5,7 +5,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Hammad+Ali+%F0%9F%91%8B;30%2B+Shipped+Apps+📱;80%2B+Global+Clients+🌍;Flutter+%26+React+Native+Dev+💻;Machine+Learning+Enthusiast+🤖&center=true&size=30&width=800&height=80&color=FF3366&vCenter=true&pause=1000" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Hammad+Ali+%F0%9F%91%8B;30%2B+Shipped+Apps+📱;80%2B+Global+Clients+🌍;Flutter+Developer+💻&center=true&size=30&width=800&height=80&color=FF3366&vCenter=true&pause=1000" alt="Typing SVG">
   </a>
 </h1>
 
@@ -21,7 +21,7 @@
       <td width="60%">
         <h2>💫 About Me</h2>
         <p><b>I am a dedicated Software Engineer and Mobile Application Developer with over 3 years of professional experience. My expertise lies in architecting and developing robust, user-centric mobile solutions.</b></p>
-        <p><b>With a proven track record of delivering high-quality applications for a diverse global clientele, I consistently exceed expectations in performance, scalability, and design. I build with intention — each tool chosen for performance, scalability, and developer experience.</b></p>
+        <p><b>With a proven track record of delivering high-quality applications for a diverse global clientele, I consistently exceed expectations in performance, scalability, and design. I build with intention - each tool chosen for performance, scalability, and developer experience.</b></p>
         <br/>
         <p><b>🌍 Portfolio: <a href="https://hammadalive.vercel.app/" target="_blank">hammadalive.me</a></b></p>
         <p><b>💼 Fiverr: <a href="https://www.fiverr.com/hammadalive2" target="_blank">Available for Work</a></b></p>
